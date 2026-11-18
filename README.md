@@ -1,6 +1,6 @@
 # Hi, I'm Fatima Ezzahra Wankida 👋
 
-**Junior Data Engineer** · ENSEM Nancy engineering degree (Digital Systems, MSc-equivalent, 2026) · based in Paris
+**Junior Data Engineer** · ENSEM Nancy engineering degree (Digital Systems, MSc-equivalent, 2026) · based in Paris  
 I build data pipelines that are **incremental, tested and traceable**, and the RAG/LLM applications that sit on top of them.
 
 🎯 **Open to full-time Data Engineer / Data & AI Engineer roles (CDI)** — [LinkedIn](https://www.linkedin.com/in/fatima-ezzahra-wankida)
@@ -25,13 +25,13 @@ Answers text and numeric questions about vehicle recalls and complaints (NHTSA p
 
 ## 💼 Experience
 
-**Data Engineer Intern — NgC GmbH, Diag2Go** (Wolfsburg, 04–10/2026) · *AI automotive diagnostics platform (RAG)*
+**Data Engineer Intern — NgC GmbH, Diag2Go** (Wolfsburg, 04–10/2026) · *AI automotive diagnostics platform (RAG)*  
 - Extended the knowledge base to multiple OEMs: **2,700 manuals from 24 manufacturers** collected and integrated
 - Structured and loaded **2,047 OEM fault codes (DTC)** with validation and traceability
 - Benchmarked multilingual embedding models: local model **18× faster** than a paid API at equivalent recall
 - Audited the database (2 silent defects found), built a confidence guardrail (ROC) and a repair-cost estimator
 
-**Data Engineer Intern — LORIA lab / ENSEM, HY2CAR project** (Nancy, 06–09/2025) · *hydrogen hybrid vehicle data platform*
+**Data Engineer Intern — LORIA lab / ENSEM, HY2CAR project** (Nancy, 06–09/2025) · *hydrogen hybrid vehicle data platform*  
 - Ingested and decoded real vehicle measurements (speed, current, voltage, SOC)
 - Designed a bronze/silver/gold pipeline (**Parquet, DuckDB, dbt**): unit harmonisation, resampling, trip splitting, energy KPIs
 - Automated data quality checks (physical ranges, gaps, timestamps) and defined the simulation's data contract
@@ -50,8 +50,8 @@ Answers text and numeric questions about vehicle recalls and complaints (NHTSA p
 
 ## 🧰 Tech stack
 
-**Data engineering**: Python, SQL, dbt, DuckDB, Parquet, Apache Iceberg, Dagster, Airflow, Kafka, Soda, ETL/ELT, web scraping
-**Databases & cloud**: PostgreSQL, pgvector, BigQuery, GCP, Docker, Terraform, GitHub Actions
+**Data engineering**: Python, SQL, dbt, DuckDB, Parquet, Apache Iceberg, Dagster, Airflow, Kafka, Soda, ETL/ELT, web scraping  
+**Databases & cloud**: PostgreSQL, pgvector, BigQuery, GCP, Docker, Terraform, GitHub Actions  
 **AI**: RAG, embeddings, hybrid search & reranking, LLMs (Mistral), multilingual NLP, PyTorch
 
 🗣️ French (fluent) · English (C1) · German (A2, learning)
