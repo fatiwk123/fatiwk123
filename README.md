@@ -42,7 +42,7 @@ Answers text and numeric questions about vehicle recalls and complaints (NHTSA p
 
 ## 📂 Other projects
 
-- **[vehicle-telemetry-pipeline](https://github.com/fatiwk123/vehicle-telemetry-pipeline)** *(in progress)* — streaming OBD-II telemetry: Kafka → Parquet data lake → BigQuery → dbt → Airflow → Streamlit
+- **vehicle-telemetry-pipeline** *(in progress)* — streaming OBD-II telemetry: Kafka → Parquet data lake → BigQuery → dbt → Airflow → Streamlit
 - **Hydrogen hybrid vehicle simulator (R&D, ENSEM)** — CARLA / FMU co-simulation, 5 Hz telemetry logging, eco-driving scoring engine
 - **[twizzy](https://github.com/fatiwk123/twizzy)** — computer vision (OpenCV) traffic-sign detection and recognition, team project
 
