@@ -3,7 +3,7 @@
 **Junior Data Engineer** · ENSEM Nancy engineering degree (Digital Systems, MSc-equivalent, 2026) · based in Paris  
 I build data pipelines that are **incremental, tested and traceable**, and the RAG/LLM applications that sit on top of them.
 
-🎯 **Open to full-time Data Engineer / Data & AI Engineer roles (CDI)** — [LinkedIn](https://www.linkedin.com/in/fatima-ezzahra-wankida)
+🎯 **Open to Data & AI opportunities** — [LinkedIn](https://www.linkedin.com/in/fatima-ezzahra-wankida)
 
 ---
 
